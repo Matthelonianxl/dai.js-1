@@ -95,7 +95,7 @@
     "toposort": "^2.0.2",
     "web3": "1.2.6",
     "web3-provider-engine": "makerdao/provider-engine#kovan-fix-dist",
-    "webpack-bundle-analyzer": "^3.3.2"
+    "webpack-bundle-analyzer": "^4.0.0"
   },
   "engines": {
     "node": ">=10.16"
